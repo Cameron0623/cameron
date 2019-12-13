@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>CSS BASICS</title>
+    <link rel="stylesheet" href="Part2_master.css">
+  </head>
+  <body>
+    <hl>This is the heading</hl>
+
+    <p>Let's see a list</p>
+
+    <ol>
+      <li>Item One</li>
+      <li>Item Two</li>
+      <li>Item Three</li>
+      </ol>
+
+
+      <h4>This is heading 4</h4>
+
+  </body>
+</html>
+
+
+
+/*selected tag{
+  property: value;
+  }*/
+
+  h1{
+    color: red;
+  }
+
+  li{
+    color: rgb(24, 225, 240)
+  }
+
+  p{
+    color: #0895a8;
+  }
+
+  h4{
+    color: rgba(255, 97, 0,0)
+  }
